@@ -7,7 +7,7 @@ https://jimmybogard.com/life-beyond-transactions-implementation-primer/
 http://vasters.com/archive/Distributed-Transactions-And-Virtualization.html  
 http://vasters.com/archive/Transactions-In-Windows-Azure-with-Service-Bus---An-Email-Discussion.html  
 http://vasters.com/archive/Achieving-Transactional-Behavior-With-Messaging.html  
-
+https://queue.acm.org/detail.cfm?id=3025012
 
 ### Sagas
 https://blog.bernd-ruecker.com/saga-how-to-implement-complex-business-transactions-without-two-phase-commit-e00aa41a1b1b  
