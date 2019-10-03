@@ -1,4 +1,14 @@
 # UseFullLinks
+## WPF
+https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M
+https://www.youtube.com/watch?v=Vjldip84CXQ&list=PL9ygb48AhMFhvqbY8bUWBkhcdXmmN0wob
+https://www.youtube.com/user/xamltv
+### Prism
+https://www.youtube.com/watch?v=ZfBy2nfykqY
+### Caliburn Micro
+https://www.youtube.com/watch?v=laPFq3Fhs8k
+
+
 ## Transactions
 https://www.microsoft.com/en-us/research/publication/consensus-on-transaction-commit/
 https://jimmybogard.com/life-beyond-transactions-implementation-primer/
