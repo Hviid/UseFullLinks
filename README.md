@@ -38,6 +38,9 @@ https://jimmybogard.com/message-naming-conventions/
 ## Software coupling
 https://www.ben-morris.com/why-is-loose-coupling-between-services-so-important/
 
+## RXJS
+https://www.youtube.com/watch?v=OlvVS0Xl6EA
+
 ## Other
 https://www.quartz-scheduler.net
 https://developers.de/blogs/damir_dobric/archive/2015/09/16/introduction-to-durable-task-framework.aspx
