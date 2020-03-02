@@ -29,7 +29,7 @@ https://microservices.io/patterns/data/transactional-outbox.html
 https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/  
 http://www.kamilgrzybek.com/design/the-outbox-pattern/
 
-## resilience
+## Resilience
 https://jimmybogard.com/refactoring-towards-resilience-process-manager-solution/
 
 ## Messaging
@@ -43,6 +43,9 @@ https://www.youtube.com/watch?v=OlvVS0Xl6EA
 
 ## Software estimation
 https://www.youtube.com/watch?v=bicBUVbeR58
+
+## Immutability
+https://www.youtube.com/watch?v=g_7pYAfx0kQ
 
 ## Other
 https://www.quartz-scheduler.net
