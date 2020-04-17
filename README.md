@@ -47,6 +47,9 @@ https://www.youtube.com/watch?v=bicBUVbeR58
 ## Immutability
 https://www.youtube.com/watch?v=g_7pYAfx0kQ
 
+## SOLID principles
+https://www.youtube.com/watch?v=agkWYPUcLpg
+
 ## Other
 https://www.quartz-scheduler.net
 https://developers.de/blogs/damir_dobric/archive/2015/09/16/introduction-to-durable-task-framework.aspx
