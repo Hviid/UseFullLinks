@@ -1,4 +1,9 @@
 # UseFullLinks
+## SQL
+### SQL performance analysis
+https://www.sqlshack.com/how-to-read-an-execution-plan-with-all-details/  
+https://docs.microsoft.com/en-us/sql/relational-databases/performance/analyze-an-actual-execution-plan?view=sql-server-ver15  
+
 ## WPF
 https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M  
 https://www.youtube.com/watch?v=Vjldip84CXQ&list=PL9ygb48AhMFhvqbY8bUWBkhcdXmmN0wob  
